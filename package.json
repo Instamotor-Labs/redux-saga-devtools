@@ -1,5 +1,5 @@
 {
-  "name": "redux-saga-devtools",
+  "name": "@instamotor-labs/redux-saga-devtools",
   "version": "0.2.0",
   "description": "Monitor and UI for redux-saga",
   "main": "lib/index.js",
@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yelouafi/redux-saga-devtools.git"
+    "url": "git+https://github.com/Instamotor-Labs/redux-saga-devtools.git"
   },
   "keywords": [
     "javascript",
@@ -63,7 +63,7 @@
   "author": "Yassine ELOUAFI <yelouafi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yelouafi/redux-saga-devtools/issues"
+    "url": "https://github.com/Instamotor-Labs/redux-saga-devtools/issues"
   },
-  "homepage": "https://github.com/yelouafi/redux-saga-devtools"
+  "homepage": "https://github.com/Instamotor-Labs/redux-saga-devtools"
 }
